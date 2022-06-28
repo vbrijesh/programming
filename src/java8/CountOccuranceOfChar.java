@@ -2,6 +2,7 @@ package java8;
 
 import java.util.stream.Collectors;
 import java.util.*;
+import java.util.function.Function;
 
 public class CountOccuranceOfChar {
 	public static void main(String args[]) {
